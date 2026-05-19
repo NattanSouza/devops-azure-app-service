@@ -1,5 +1,5 @@
 {
-"name": "my-web-app",
+"name": "devops-azure-app-service",
 "version": "1.0.0",
 "description": "Simple Node.js web app for DevOps exercise",
 "main": "app.js",
